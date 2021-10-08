@@ -1,0 +1,22 @@
+body { 
+    background-image: url("animal-with-big-eyes-art-01.jpg");
+    height: 100%; 
+    background-color:moccasin;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#header{
+   background-color: lightpink;
+   font-family: Georgia, Verdana, sans-serif;
+   font-weight:bold;
+}
+but1{
+background-color: lightpink;
+}
+
+but2{
+    background-color: rgb(255, 101, 124);
+}
